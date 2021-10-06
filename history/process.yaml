@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSP-SP001-07-FLORTJ000-recovered_cspp-flort_sample
 data_stream: CE02SHSP-SP001-07-FLORTJ000-recovered_cspp-flort_sample
 end_date: '2021-05-26T09:01:53.421Z'
-last_updated: '2021-09-30T02:08:39.585853'
+last_updated: '2021-10-06T01:34:38.774482Z'
 start_date: '2015-03-18T19:37:00.454Z'
-status: success
+status: pending
