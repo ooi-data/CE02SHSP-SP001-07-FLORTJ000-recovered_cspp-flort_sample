@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE02SHSP-SP001-07-FLORTJ000-recovered_cspp-flort_sample
-last_request: '2021-12-01T21:53:21.530215Z'
+last_request: '2021-12-04T00:31:00.115534Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHSP-SP001-07-FLORTJ000-recovered_cspp-flort_sample/main/history/response.json
-status: success
+status: pending
